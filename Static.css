@@ -1,0 +1,290 @@
+
+.God{
+  background-color: rgba(0, 0, 0, 0.997);
+}
+
+.Help{
+  position:absolute;
+  top: 0em;
+  left: 35em;
+  bottom: 0em;
+  right: 0em;
+}
+
+.Poop{
+  position:absolute;
+  top: .1em;
+  left: 1em;
+  bottom: 0em;
+  right: 0em;
+  margin: auto;
+}
+
+.Pee{
+  position:absolute;
+  top: 0em;
+  left: 3.5em;
+  bottom: 4em;
+  right: 0em;
+  margin: auto;
+}
+
+.AHH{
+  position:absolute;
+  top: 0em;
+  left: 6em;
+  bottom: 4em;
+  right: 0em;
+  margin: auto;
+}
+
+.Kirb{
+  position:absolute;
+  top: 0em;
+  left: 8em;
+  bottom: 4em;
+  right: 0em;
+  margin: auto;
+}
+
+.Boob{
+  position:absolute;
+  top: 0em;
+  left: 11em;
+  bottom: 4em;
+  right: 0em;
+  margin: auto;
+}
+
+.Leg{
+  background-color:black;
+  height: 3.8em;
+  width: 84em;
+  position:absolute;
+  top: 0em;
+  left: 0em;
+  bottom: 20em;
+  right: 0em;
+  margin:auto;
+  border-radius:  0 0 0 0;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.301);
+  border-width: thin;
+  border-left: none;
+  border-right:none;
+}
+
+.Leg2{
+background-color:black;
+height: 3.8em;
+width: 10em;
+position:absolute;
+top: 0em;
+left: 55em;
+bottom: 20em;
+right: 0em;
+margin:auto;
+border-radius:  0 0 0 0;
+border-style: solid;
+border-color: rgba(255, 255, 255, 0.301);
+border-width: thin;
+}
+
+.Leg3{
+    background-color:black;
+    height: 3.8em;
+    width: 12em;
+    position:absolute;
+    top: 0em;
+    left: 35em;
+    bottom: 20em;
+    right: 0em;
+    margin:auto;
+    border-radius:  0 0 0 0;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.301);
+    border-width: thin;
+}
+
+
+.Leg4{
+  background-color:black;
+  height: 3.8em;
+  width: 12em;
+  position:absolute;
+  top: 0em;
+  left: 18em;
+  bottom: 20em;
+  right: 0em;
+  margin:auto;
+  border-radius:  0 0 0 0;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.301);
+  border-width: thin;
+}
+
+.Leg5{
+  background-color:black;
+  height: 3.8em;
+  width: 12em;
+  position:absolute;
+  top: 0em;
+  left: 0em;
+  bottom: 20em;
+  right: 0em;
+  margin:auto;
+  border-radius:  0 0 0 0;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.301);
+  border-width: thin;
+}
+
+.Leg6{
+  background-color:black;
+  height: 3.8em;
+  width: 12em;
+  position:absolute;
+  top: 0em;
+  left: 0em;
+  bottom: 20em;
+  right: 19em;
+  margin:auto;
+  border-radius:  0 0 0 0;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.301);
+  border-width: thin;
+}
+
+.Leg7{
+  background-color:black;
+  height: 3.8em;
+  width: 12em;
+  position:absolute;
+  top: 0em;
+  left: 0em;
+  bottom: 20em;
+  right: 38em;
+  margin:auto;
+  border-radius:  0 0 0 0;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.301);
+  border-width: thin;
+}
+
+.Leg8{
+  background-color:black;
+  height: 3.8em;
+  width: 10em;
+  position:absolute;
+  top: 0em;
+  left: 0em;
+  bottom: 20em;
+  right: 55em;
+  margin:auto;
+  border-radius:  0 0 0 0;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.301);
+  border-width: thin;
+}
+
+.Kobe{
+  height: -90em;
+  width: 15em;
+  position:absolute;
+  top: 9em;
+  left: 12em;
+  bottom: 0em;
+  right: 0em;
+}
+
+.Kobe2{
+  height: -90em;
+  width: 15em;
+  position:absolute;
+  top: 9em;
+  left: 23.5em;
+  bottom: 0em;
+  right: 0em;
+}
+
+.Kobe3{
+  height: -90em;
+  width: 15em;
+  position:absolute;
+  top: 9em;
+  left: 33em;
+  bottom: 0em;
+  right: 0em;
+}
+
+.Kobe4{
+  height: -90em;
+  width: 15em;
+  position:absolute;
+  top: 9em;
+  left: 42em;
+  bottom: 0em;
+  right: 0em;
+}
+
+.Kobe5{
+  height: -90em;
+  width: 15em;
+  position:absolute;
+  top: 9em;
+  left: 50em;
+  bottom: 0em;
+  right: 0em;
+}
+
+.Kobe6{
+  height: -90em;
+  width: 15em;
+  position:absolute;
+  top: 9em;
+  left: 59em;
+  bottom: 0em;
+  right: 0em;
+}
+
+.Kobe7{
+  height: -90em;
+  width: 15em;
+  position:absolute;
+  top: 9em;
+  left: 68em;
+  bottom: 0em;
+  right: 0em;
+}
+
+.Clone{
+  height: 0em;
+  width: 0em;
+  position:absolute;
+  top: 0em;
+  left: 0.6em;
+  bottom: 16em;
+  right:95em;
+  margin:auto;
+}
+
+img.resize{
+  height: 35em;
+  width: 83em;
+}
+
+.Clone2{
+  height: 0em;
+  width: 0em;
+  position:absolute;
+  top: 55em;
+  left: 0em;
+  bottom: 0em;
+  right:65em;
+  margin:auto;
+}
+
+img.resize2{
+  height: 30em;
+  width: 65em;
+}
